@@ -1,3 +1,3 @@
 # DevOps-SoftUni
 
-DevOps - Infrastructure & Configuration Management - november 2022
+DevOps - Infrastructure & Configuration Management - November 2022
